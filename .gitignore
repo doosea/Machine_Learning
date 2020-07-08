@@ -130,6 +130,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+.idea/
 .idea/.gitignore
 .idea/Machine_Learning.iml
 .idea/inspectionProfiles/
