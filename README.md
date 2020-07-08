@@ -8,9 +8,11 @@
 2. `git add xxx`: 添加文件到暂存区
 3. `git commit -m "提交的信息msg"` : 将暂存区文件提交到本地仓库
 4. `git remote add origin [url]` : 本地仓库与远程仓库关联
-5. `git push origin master` : 本地push 到远程
+5. `git push origin master` : 本地push 到远程, 之后输入github 用户名和密码
 
 6. `git status` : 查看所有文件状态
 7. `git status [filename]` : 查看指定文件状态
 8. `git add .` : 添加所有文件到暂存区
 9. `git clone [url]` : clone 远程项目到本地
+10. `git pull origin master` : 拉取远程到本地
+11. 
