@@ -5,9 +5,11 @@
 * [参考资料3：李宏毅Ml 官方网址](http://speech.ee.ntu.edu.tw/~tlkagk/courses_ML20.html)
 
 
-0. `Git` : 
+0. `Git` : Git 常用操作命令
+
     [Git/README.md](Git/README.md)
-1. `Regression` : 
+1. `Regression` :  回归
+
     [Regreesion/README.md](Regreesion/README.md)
 
 
