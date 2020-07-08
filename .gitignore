@@ -135,5 +135,4 @@ dmypy.json
 .idea/Machine_Learning.iml
 .idea/inspectionProfiles/
 .idea/misc.xml
-.idea/modules.xml
-Regression/
+.idea/modules.xml：
