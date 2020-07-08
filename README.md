@@ -15,4 +15,6 @@
 8. `git add .` : 添加所有文件到暂存区
 9. `git clone [url]` : clone 远程项目到本地
 10. `git pull origin master` : 拉取远程到本地
-11. 
+11. `git rm --cached -r [useless]` : 删除远程无用的文件，保留本地, 如`git rm --cached -r .idea`
+12. `git push --set-upstream origin master` :只关联一个远程时，设置这个之后，可以使用`git push` 
+
