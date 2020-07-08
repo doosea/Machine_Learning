@@ -6,4 +6,6 @@
 ### Git 操作备忘
 1. `git init` : 初始化仓库 
 2. `git add xxx`: 添加文件到暂存区
-3. `git commi -m "提交的信息msg"` : 将暂存区文件提交到本地仓库
+3. `git commit -m "提交的信息msg"` : 将暂存区文件提交到本地仓库
+
+7. `git clone [url]` : clone 远程项目到本地
